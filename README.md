@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi there 👋 
+
+Welcome to my Github! 🤖  Home to a variety of projects from hackathons, online courses, and my own personal interests!
+
+## I'm currently working on:
+  - Creating a dynamic recipe app 🍔
+  
+## I'm currently learning about:
+  - iOS Game Development 📱
+  - React.js
 
 <!--
 **juliabturner/juliabturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
