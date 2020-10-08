@@ -7,8 +7,8 @@ Welcome to my Github! 🤖  Home to a variety of projects from hackathons, onlin
   
 ## I'm currently learning about:
   - iOS Game Development 📱
-  - React.js
-
+  - React.js ⚛
+  
 <!--
 **juliabturner/juliabturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
