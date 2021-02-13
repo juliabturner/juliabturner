@@ -1,8 +1,6 @@
 ### Hi there 👋 
 
 Welcome to my Github! 🤖   Home to a variety of projects from hackathons, online courses, and my own personal interests!
-
-I'm currently looking for Summer 2021 coops in software engineering, mobile development, or full-stack development 👩‍💻
   
 <!--
 **juliabturner/juliabturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
